@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Timm Simpkins <poduck@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: wp-autobuzz.php:69
+msgid "Add link to allow Google to associate author feed with your profile"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:100
+msgid "Allow per author profile"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:102
+msgid "Allows authors to add their author feed to their own Google Buzz"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:64
+msgid "Associate Google Profile"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:97
+msgid "Enter Google account name that appears before @ in your email address."
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:108
+msgid "Go to your Google Profile and edit it.  At the bottom will be a section on the right that says &quot;My links&quot;.  If you don't see your blog there, below that should be an area that says, &quot;Add custom links to my profile.&quot;  Enter the link to your blog there and submit."
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:59
+msgid "Google Profile"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:56
+msgid "Google Profile Information"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:95
+msgid "Home Page Google Account:"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:107
+msgid "IMPORTANT: Before Google Buzz will import your RSS feed, you must link this site with Google Buzz."
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:110
+msgid "Once you have linked your blog to your profile, you can either wait for google to crawl your blog, or you can force it to crawl your blog by going to the <a href=\\\"https://sgapi-recrawl.appspot.com/\\\">recrawl tool</a>. Once there and logged in, click the recrawl button next to the website you want to add. After that, all you have to do is add it to your connected sites in buzz and voila."
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:61
+msgid "Please enter your Google Profile ID (*ID*@gmail.com)"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:92
+msgid "Settings"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:106
+msgid "Updated Successfully"
+msgstr ""
+
+#. Text in echo
+#: wp-autobuzz.php:91
+msgid "WP AutoBuzz"
+msgstr ""
+
